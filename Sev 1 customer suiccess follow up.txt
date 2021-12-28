@@ -1,0 +1,12 @@
+Hello {{{Recipient.FirstName}}},
+
+My name is {{{Sender.Name}}} (Manager, Customer Success) I am reaching out to follow-up on a recent SEV 1 ticket you submitted, Ticket number #######.
+
+We strive to resolve all high severity tickets such as this in a timely manner and we hope you were satisfied with your support experience.
+
+We are always striving provide the best customer experience possible. If you have any feedback you would like to share please let us know by replying to this email or using the survey you should have received upon ticket resolution.
+
+Kind Regards,
+
+{{{Sender.Name}}}
+{{{Sender.Title}}}

@@ -1,0 +1,30 @@
+
+Outreach for customer who has been patched or received a new version of any our software 
+
+
+Dear [[Client]]
+
+Our records indicate that you received an updated release to VXXXX on XXXX date. 
+
+My name is XYZ (Manager, Customer Success) and in order to provide the best customer success possible we are reaching out to follow-up on your experience regarding the update. 
+
+For example:
+
+    How are you and your users enjoying this new version?
+    Are there any features you are struggling with?
+    Are there any outstanding items that you need assistance with?
+
+Please note that you have access to a list of changes regarding this [patch]/[release]. These release notes should outline all product enhancements and bug fixes you now have.
+
+Any feedback is welcome by replying to this email 
+[OR]
+If you encounter any issues or errors on your new version please create a reach out to a Customer Success Manager
+[OR]
+create a support ticket via [link] and a Support resource will be happy to assist you.
+[OR]
+
+
+Kind Regards,
+
+{{{Sender.Name}}}
+{{{Sender.Title}}}
